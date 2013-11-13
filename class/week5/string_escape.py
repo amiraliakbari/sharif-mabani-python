@@ -1,0 +1,6 @@
+print "Hello\nWorld!"
+print "Hello\tWorld!"
+print "Hello \" World!"
+print "Hello \\ World!"
+print "\\n"
+print r"Hello \n World!"
